@@ -31,7 +31,7 @@
   
   /* Header */
   header {
-    background: #914aee;
+    background: #8706BB;
     padding: 2rem 0 10rem;
     text-align: center;
   }
@@ -82,7 +82,7 @@
     background: white
   }
   .card.total {
-    background: #3dbaf3;
+    background: #00bcd4;
     color: white;
   }
   
